@@ -1,0 +1,21 @@
+.image-gallery-slide img{
+    width: auto;
+    display: block;
+    margin: auto;
+}
+.image-gallery-slide{
+    background-color: #f7f7f7;
+}
+.image-gallery-thumbnail img{
+    height: 60px;
+}
+.listingGallery img{
+    height: 250px;
+}
+.advertGallery img{
+    height: 500px;
+}
+.advertGallery.image-gallery-slide{
+    background-color: transparent;
+}
+
