@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 7/26/17.
- * moonion.com
- */
-
 import {push as routerGo, goBack as routerBack} from 'react-router-redux';
 
 import Parse from 'parse';

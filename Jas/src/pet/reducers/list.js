@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 7/19/17.
- * moonion.com
- */
-
 import {PET_LIST, PET_SAVE, PET_DELETE } from '../constants/actions';
 
 export default function list(state = [], action) {

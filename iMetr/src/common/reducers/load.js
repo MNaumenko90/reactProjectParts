@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 7/19/17.
- * moonion.com
- */
-
 
 import {LOAD} from '../constants/actions';
 

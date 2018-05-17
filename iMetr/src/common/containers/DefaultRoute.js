@@ -1,7 +1,4 @@
-/**
- * Created by aleksandr on 7/19/17.
- * moonion.com
- */
+
 import React, {Component} from 'react';
 import {withRouter} from 'react-router-dom'
 import {connect} from 'react-redux';

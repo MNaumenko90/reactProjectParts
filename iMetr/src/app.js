@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 7/15/17.
- * moonion.com
- */
-
 import React from 'react';
 import {routerReducer, routerMiddleware, ConnectedRouter} from 'react-router-redux';
 import {Provider} from 'react-redux';

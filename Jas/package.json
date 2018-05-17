@@ -2,8 +2,8 @@
   "name": "web",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "git@gitlab.moonion.com:JAS/web.git",
-  "author": "Александр Нашиван <alex@moonion.com>",
+  "repository": "repo",
+  "author": "author",
   "license": "MIT",
   "scripts": {
     "develop": "atool-build --watch",

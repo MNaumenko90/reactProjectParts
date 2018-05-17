@@ -1,7 +1,3 @@
-/**
- * Created by aleksandr on 8/2/17.
- * moonion.com
- */
 
 import React from 'react';
 import classNames from 'classnames';

@@ -1,7 +1,3 @@
-/**
- * Created by aleksandr on 7/28/17.
- * moonion.com
- */
 
 import React from 'react';
 import './assets/css/app.css';

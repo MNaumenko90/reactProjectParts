@@ -1,7 +1,3 @@
-/**
- * Created by kirill on 9/13/17.
- * moonion.com
- */
 
 import {INC_LOADER , DEC_LOADER} from "../constants/actions";
 

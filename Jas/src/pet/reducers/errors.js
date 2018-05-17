@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 7/19/17.
- * moonion.com
- */
-
 import {ERROR_PET_ADD, ERROR_PET_RM, ERROR_PET_RESET} from '../constants/actions';
 
 let eid = 0;

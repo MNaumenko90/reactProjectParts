@@ -1,8 +1,3 @@
-/**
- * Created by aleksandr on 8/9/17.
- * moonion.com
- */
-
 
 import {ERROR_ALERT, SUCCESS_ALERT, REMOVE_ALERT} from '../constants/actions';
 
